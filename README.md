@@ -26,3 +26,5 @@ You do not need to use the terminal or write any commands to test this project. 
 ## License
 
 Apple SCL
+
+<img width="554" height="156" alt="image" src="https://github.com/user-attachments/assets/13855e02-27d2-40ef-9a1a-b445a753dfe4" />
