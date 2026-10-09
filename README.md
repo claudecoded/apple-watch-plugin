@@ -13,9 +13,15 @@ You do not need to use the terminal or write any commands to test this project. 
 
 1. Click the green **"Code"** button at the top of this GitHub page.
 2. Click **"Download ZIP"** to download the project files to your Mac.
+
+<img width="1183" height="912" alt="image" src="https://github.com/user-attachments/assets/369eacbc-bee7-47bb-a294-f1112366c077" />
+
 3. Extract the downloaded ZIP file on your computer.
 4. Open the extracted folder and double-click the file named **`WatchTodoApp.xcodeproj`** (this will automatically open Xcode).
 5. At the very top bar of Xcode, select an **Apple Watch Simulator** (e.g., Apple Watch Series 9).
+
+<img width="1377" height="768" alt="image" src="https://github.com/user-attachments/assets/2646604f-8923-4382-afc9-1e9a4f07a7d7" />
+
 6. Press the **Play button (⌘R)** in the top left corner to build and run the app on the simulator!
 
 ## 🛠️ Requirements & Compatibility
