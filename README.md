@@ -1,5 +1,7 @@
 # ⌚ apple-watch-plugin - Native watchOS App & Face Complication
 
+<img width="1042" height="479" alt="WhatsApp Image 2026-10-09 at 12 47 05" src="https://github.com/user-attachments/assets/965c600e-c073-4724-8125-bcf9fedc1e69" />
+
 A fully functional, independent Apple Watch application built with **SwiftUI** and **WidgetKit**. It features both a main application and an **addable Watch Face complication (plugin)**.
 
 ## ✨ Features
